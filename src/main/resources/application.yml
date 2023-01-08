@@ -1,0 +1,5 @@
+logging:
+  level:
+    com.atguigu.kafka: debug
+  pattern:
+    dateformat: HH:mm:ss:SSS
