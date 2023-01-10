@@ -48,6 +48,13 @@
             <artifactId>hutool-all</artifactId>
             <version>5.8.9</version>
         </dependency>
+        <!--test-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+            <version>2.5.9</version>
+        </dependency>
     </dependencies>
 
     <build>
